@@ -3,3 +3,12 @@ logo: /assets/PXL_20250303_003456667.PORTRAIT.jpg
 description: ML Engineer
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Personal Info
+social_links:
+  - type: linkedin
+    url: https://www.linkedin.com/in/stutipatel/
+  - type: github
+    url: https://github.com/stutipatel99
+  - type: twitter
+    url: https://twitter.com/stutipatel
